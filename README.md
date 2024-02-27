@@ -21,3 +21,5 @@ Feel free to add your name or GitHub username and a fun fact about yourself. Let
 - GitHubUser2: Fun fact: I can juggle three balls while riding a unicycle.
 
 - Dahlia was here. Fun fact: I love to travel and explore new places.
+
+- Hi from Sophia
