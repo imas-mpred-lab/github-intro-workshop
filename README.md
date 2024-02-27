@@ -19,12 +19,6 @@ Feel free to add your name or GitHub username and a fun fact about yourself. Let
 ## Participant Contributions
 - GitHubUser1: Fun fact: I've never been to the ocean.
 - GitHubUser2: Fun fact: I can juggle three balls while riding a unicycle.
-
-<<<<<<< HEAD
-
-=======
+- iles_stell (ilaria): in my freetime I crochet nudiebranch scrunchies!
 - Dahlia was here. Fun fact: I love to travel and explore new places.
->>>>>>> f4a1b30a9e5e602960afdefc1ac238573a008fbe
-
-
 ## Look! Dave added some text!
