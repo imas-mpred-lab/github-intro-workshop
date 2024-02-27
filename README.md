@@ -17,7 +17,7 @@ The objective of this exercise is to familiarise ourselves with the process of m
 Feel free to add your name or GitHub username and a fun fact about yourself. Let's get started!
 
 ## Participant Contributions
-
 - GitHubUser1: Fun fact: I've never been to the ocean.
 - GitHubUser2: Fun fact: I can juggle three balls while riding a unicycle.
 
+- Dahlia was here. Fun fact: I love to travel and explore new places.
