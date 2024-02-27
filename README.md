@@ -22,3 +22,4 @@ Feel free to add your name or GitHub username and a fun fact about yourself. Let
 
 - iles_stell (ilaria): in my freetime I crochet nudiebranch scrunchies!
 - Dahlia was here. Fun fact: I love to travel and explore new places.
+- Julie shares 60% of her DNA with bananas
